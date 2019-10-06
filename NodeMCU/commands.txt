@@ -1,0 +1,20 @@
+Useful commands:
+
+history  : For History 
+sudo netstat -ltnp  : shows the processes running on linux
+kill -9 pid  : Killing the process, mention the process
+
+ps -ef | grep "command to find"
+
+
+Links:
+https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md#internet-sharing
+https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md
+https://thepi.io/how-to-use-your-raspberry-pi-as-a-wireless-access-point/
+
+https://openhomeautomation.net/connect-esp8266-raspberry-pi
+https://github.com/openhomeautomation/connect-esp8266-rpi/blob/master/esp8266_sensor/esp8266_sensor.ino
+      
+	  
+	  
+	  
